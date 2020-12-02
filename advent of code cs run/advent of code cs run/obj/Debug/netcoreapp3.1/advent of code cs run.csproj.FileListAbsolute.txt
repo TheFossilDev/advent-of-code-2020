@@ -1,0 +1,13 @@
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\bin\Debug\netcoreapp3.1\advent of code cs run.exe
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\bin\Debug\netcoreapp3.1\advent of code cs run.deps.json
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\bin\Debug\netcoreapp3.1\advent of code cs run.runtimeconfig.json
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\bin\Debug\netcoreapp3.1\advent of code cs run.runtimeconfig.dev.json
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\bin\Debug\netcoreapp3.1\advent of code cs run.dll
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\bin\Debug\netcoreapp3.1\advent of code cs run.pdb
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\obj\Debug\netcoreapp3.1\advent of code cs run.csprojAssemblyReference.cache
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\obj\Debug\netcoreapp3.1\advent of code cs run.AssemblyInfoInputs.cache
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\obj\Debug\netcoreapp3.1\advent of code cs run.AssemblyInfo.cs
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\obj\Debug\netcoreapp3.1\advent of code cs run.csproj.CoreCompileInputs.cache
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\obj\Debug\netcoreapp3.1\advent of code cs run.dll
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\obj\Debug\netcoreapp3.1\advent of code cs run.pdb
+C:\Users\colew\Documents\Projects\advent-of-code-2020\advent of code cs run\advent of code cs run\obj\Debug\netcoreapp3.1\advent of code cs run.genruntimeconfig.cache
